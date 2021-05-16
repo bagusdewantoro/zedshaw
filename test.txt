@@ -1,0 +1,4 @@
+ini adalah baris pertama
+ini adalah baris kedua
+ini adalah baris ketiga
+ini adalah baris keempat
